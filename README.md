@@ -6,3 +6,6 @@ https://github.com/wilco2009/videopac-cart
 As I did not entirely understand his arduino code, I have written this.
 It is as simple as can be and just allows selecting between 32 different
 ROM images by setting address bits 14-18 on an 29F040/39F040 chip.
+
+I have recreated the schematic and PCB at EasyEDA, it is available here:
+https://oshwlab.com/jimmy.dansbo/videopac_cart_v1-2_display_copy
